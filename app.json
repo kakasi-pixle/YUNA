@@ -1,0 +1,13 @@
+{
+"name": "𝖘𝖍𝖆𝖜𝖆𝖗𝖒𝖆 𝖇𝖔𝖙𝖘",
+"description": "بوت.",
+"repository": "https://whatsapp.com/channel/0029VaxKNWwKgsO0vINyGg1W",
+"logo": "https://telegra.ph/file/3f00e26dcd5dcd09a68a1.jpg",
+"keywords": ["bot", "whatsapp", "whatsapp-bot", "boyslove", "𝖘𝖍𝖆𝖜𝖆𝖗𝖒𝖆 𝖇𝖔𝖙𝖘", "yaoi"],
+"buildpacks": [
+{ "url": "heroku/nodejs" },
+{ "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" },
+{ "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" },
+{ "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick" }    
+]
+}
